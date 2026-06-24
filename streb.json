@@ -1,5 +1,5 @@
 {
-  "version": "0.9.4-rc4",
+  "version": "0.9.5-rc4",
   "description": "CLI tool for bootstrapping Claude Code development environments",
   "homepage": "https://strebstorage.z1.web.core.windows.net/",
   "license": {
@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://strebstorage.blob.core.windows.net/streb/releases/download/v0.9.4-rc2/streb_windows_amd64.zip",
+      "url": "https://strebstorage.blob.core.windows.net/streb/releases/download/v0.9.4-rc5/streb_windows_amd64.zip",
       "hash": "f5eb8e56e9eb6fdfe45ad1911694a855c04e6a04c418e4fc8f64575397ab1ec6"
     }
   },
